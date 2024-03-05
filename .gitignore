@@ -4,3 +4,6 @@
 
 /EFCore_Identity/.vs/EFCore_Identity
 /EFCore_Identity/EFCore_Identity/obj
+/EFCore_Identity/EFCore_Identity/bin/Debug/net6.0
+/EFCore_Identity/WebApp1/obj/Debug/net6.0
+/EFCore_Identity/WebApp1/bin/Debug/net6.0
