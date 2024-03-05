@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EFCore_Identity/.vs/EFCore_Identity
+/EFCore_Identity/EFCore_Identity/obj
